@@ -79,5 +79,10 @@ flutter:
         - asset: assets/fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf
           #       - asset: fonts/TrajanPro_Bold.ttf
           weight: 900
+
+    - family: MyFlutterApp
+      fonts:
+        - asset: assets/fonts/MyFlutterApp.ttf
+          
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
