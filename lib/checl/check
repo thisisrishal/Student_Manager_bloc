@@ -1,5 +1,0 @@
-Navigator.push(
-                                context,
-                                MaterialPageRoute(
-                                    builder: (context) =>
-                                        ViewImage(imagepath: _imagePath)))
